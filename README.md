@@ -5,4 +5,4 @@ Goal: create a website for sport contest
 
 Tools: use Wampserver , phpmyadmin
 
-Language : html,php
+Language : html,php,MySQL
